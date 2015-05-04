@@ -1,3 +1,5 @@
+ //Soojusarvutrused veeboileri tarbeks
+
 public class Boiler{
 	public double maht;
 	public double temperatuur;
